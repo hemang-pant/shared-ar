@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "223768665797",
+    "firebase_url": "https://arcore-cloud-anchors-1327e-default-rtdb.firebaseio.com",
+    "project_id": "arcore-cloud-anchors-1327e",
+    "storage_bucket": "arcore-cloud-anchors-1327e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223768665797:android:6251796eafbeff14db5aac",
+        "android_client_info": {
+          "package_name": "com.google.ar.core.codelab.cloudanchor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223768665797-a99ef8r35r56b08q50iir7dpmjqb0vaq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCib6b7zN6fMJLtkeSlZx_9JCXkFalrvgk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223768665797-a99ef8r35r56b08q50iir7dpmjqb0vaq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
